@@ -1,0 +1,13 @@
+#this file is part of PistonsExtended.
+# 
+#this file determines what version the plugin is in in name and main class file
+#
+#this file is used for bukkit a minecraft server modification for more details see
+#http://bukkit.org 
+#
+#@author matter123
+#
+name: PistonsExtended
+main: com.matter123.PistonsExtended.PistonsExtended
+version: "1.5.0.7"
+author: matter123
